@@ -10,7 +10,8 @@ Francisco Angulo de Lafuente
 
 A groundbreaking implementation of a Quantum Holographic Neural Network system that combines quantum computing principles, holographic data representation, and neural network architectures for advanced processor design and optimization.
 
-![QHNN Visualization](https://source.unsplash.com/random/1200x630/?quantum,technology)
+![Captura de pantalla -2024-11-02 12-56-50](https://github.com/user-attachments/assets/7d1ee136-4d5e-4197-a6f2-adfd4ec431ac)
+
 
 ## Features
 
@@ -53,6 +54,13 @@ npm install
 npm run dev
 \`\`\`
 
+
+
+
+https://github.com/user-attachments/assets/5b78d915-cdfe-4498-9ace-6f2a3de19f98
+
+
+
 ## System Requirements
 
 - Node.js 16.x or higher
@@ -78,6 +86,10 @@ The QHNN system consists of three main components:
    - Optimizes processor design
    - Implements reinforcement learning
    - Monitors and improves performance
+  
+
+![Captura de pantalla -2024-11-02 10-37-47](https://github.com/user-attachments/assets/e0ec287a-d96f-47b5-a0ae-966d66e4fca1)
+
 
 ## Usage
 
@@ -115,6 +127,10 @@ const newState = applyAction(currentState, action);
 await optimizer.trainWithPPO(currentState, action, reward, newState);
 \`\`\`
 
+
+![Captura de pantalla -2024-11-02 12-57-44](https://github.com/user-attachments/assets/32a148f2-1085-4b07-890d-15b0f2bd32dc)
+
+
 ## Documentation
 
 Detailed documentation is available in the [docs](./docs) directory:
@@ -140,7 +156,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ## Research Paper
 
 For a detailed technical overview of the system, please refer to our research paper:
-[Quantum Holographic Neural Networks: A Novel Approach to Self-Optimizing Processor Design](./paper/QHNN_paper.pdf)
+[Quantum Holographic Neural Networks: A Novel Approach to Self-Optimizing Processor Design](https://www.researchgate.net/publication/385490689_Title_AlphaChip_Integration_in_Quantum_Holographic_Neural_Networks_A_Revolutionary_Approach_to_Self-Optimizing_Processor_Design)
 
 ## License
 
@@ -167,6 +183,6 @@ If you use this work in your research, please cite:
 
 ## Contact
 
-Francisco Angulo - [@yourusername](https://twitter.com/yourusername)
+Francisco Angulo - [@yourusername](https://x.com/Francisco_Ecofa)
 
-Project Link: [https://github.com/yourusername/quantum-holographic-neural-network](https://github.com/yourusername/quantum-holographic-neural-network)
+Project Link: [https://github.com/yourusername/quantum-holographic-neural-network](https://github.com/Agnuxo1?tab=repositories)
