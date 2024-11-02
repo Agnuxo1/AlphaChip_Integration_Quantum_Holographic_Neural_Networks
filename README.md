@@ -183,6 +183,6 @@ If you use this work in your research, please cite:
 
 ## Contact
 
-Francisco Angulo - [@yourusername](https://x.com/Francisco_Ecofa)
+Francisco Angulo - [x.com](https://x.com/Francisco_Ecofa)
 
 Project Link: [https://github.com/yourusername/quantum-holographic-neural-network](https://github.com/Agnuxo1?tab=repositories)
