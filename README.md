@@ -87,6 +87,7 @@ The QHNN system consists of three main components:
    - Implements reinforcement learning
    - Monitors and improves performance
   
+https://claude.site/artifacts/5b044849-9f82-4ee5-9e8a-911c3ae31ff1
 
 ![Captura de pantalla -2024-11-02 10-37-47](https://github.com/user-attachments/assets/e0ec287a-d96f-47b5-a0ae-966d66e4fca1)
 
