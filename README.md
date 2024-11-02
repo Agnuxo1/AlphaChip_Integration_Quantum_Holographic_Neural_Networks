@@ -8,7 +8,7 @@ Francisco Angulo de Lafuente
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.17.0-orange.svg)](https://www.tensorflow.org/js)
 [![Three.js](https://img.shields.io/badge/Three.js-0.161.0-green.svg)](https://threejs.org/)
 
-A groundbreaking implementation of a Quantum Holographic Neural Network system that combines quantum computing principles, holographic data representation, and neural network architectures for advanced processor design and optimization.
+## A groundbreaking implementation of a Quantum Holographic Neural Network system that combines quantum computing principles, holographic data representation, and neural network architectures for advanced processor design and optimization.
 
 ![Captura de pantalla -2024-11-02 12-56-50](https://github.com/user-attachments/assets/7d1ee136-4d5e-4197-a6f2-adfd4ec431ac)
 
